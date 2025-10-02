@@ -16,6 +16,9 @@ The feed provides machine-readable business and product data designed for LLMs, 
 - **products.json**  
   Structured product catalog, including descriptions, pricing, stock availability, and ingredient details.
 
+- **faqs.json**  
+  Structured frequently asked questions, providing canonical Q&A pairs about shipping, returns, product usage, and brand policies.
+
 ---
 
 ## Schema
