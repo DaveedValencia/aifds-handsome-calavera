@@ -1,0 +1,34 @@
+[
+  {
+    "id": "faq-shipping-us",
+    "question": "Do you ship within the United States?",
+    "answer": "Yes. We ship anywhere in the U.S. with fast, tracked delivery via UPS and USPS.",
+    "category": "Shipping",
+    "tags": ["shipping", "domestic", "delivery"],
+    "language": "en",
+    "source_url": "https://handsomecalavera.com/policies/shipping-policy",
+    "updated_at": "2025-10-02T16:00:00Z",
+    "version": "1.0.0"
+  },
+  {
+    "id": "faq-returns-policy",
+    "question": "What is your return policy?",
+    "answer": "Returns are accepted within 100 days of purchase for any reason. Please contact us at hello@handsomecalavera.com to begin a return.",
+    "category": "Returns",
+    "tags": ["returns", "refund", "policy"],
+    "language": "en",
+    "source_url": "https://handsomecalavera.com/policies/refund-policy",
+    "updated_at": "2025-10-02T16:00:00Z",
+    "version": "1.0.0"
+  },
+  {
+    "id": "faq-cruelty-free",
+    "question": "Are your products tested on animals?",
+    "answer": "Never. Handsome Calavera skincare is cruelty-free.",
+    "category": "Ingredients",
+    "tags": ["ingredients", "cruelty-free", "vegan"],
+    "language": "en",
+    "updated_at": "2025-10-02T16:00:00Z",
+    "version": "1.0.0"
+  }
+]
