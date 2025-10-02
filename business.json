@@ -1,0 +1,25 @@
+{
+  "name": "Handsome Calavera",
+  "url": "https://handsomecalavera.com",
+  "logo": "https://cdn.shopify.com/s/files/1/0678/8756/2966/files/Square_Logo.png",
+  "description": "Handsome Calavera is a men’s skincare brand built around the thrill of the gamble — delivering a moisturizer and cleanser that keep your skin looking sharp and ready for the game.",
+  "founded": "2023",
+  "category": "Skincare",
+  "address": {
+    "name": "Handsome Calavera",
+    "street": "7500 Golden Triangle Dr, Suite E15",
+    "city": "Eden Prairie",
+    "state": "MN",
+    "postal_code": "55344",
+    "country": "USA"
+  },
+  "contact": {
+    "email": "hello@handsomecalavera.com",
+    "url": "https://handsomecalavera.com/pages/contact"
+  },
+  "social": {
+    "instagram": "https://instagram.com/handsomecalavera",
+    "tiktok": "https://tiktok.com/@handsomecalavera",
+    "facebook": "https://www.facebook.com/handsomecalavera"
+  }
+}
